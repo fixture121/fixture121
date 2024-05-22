@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Toufiq
-- 🌱 I’m currently learning Java, Spring Boot, HTML/CSS, JS, and SQL
-- 👀 Currently seeking Winter 2024 internships
+- 🌱 I’m currently learning C, C#, .NET, Angular and SQL
+- I have experience in Java, Spring Boot, HTML/CSS, JS, and React.js
+- 👀 Currently seeking Fall 2024 internships
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/   :)
 
 <!---
