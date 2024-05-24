@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Toufiq
+- 📍 Tornto, Canada
 - 🌱 I’m currently learning C, C#, .NET, Angular, TypeScript and SQL
 - 👨🏽‍💻 I have experience in Java, Spring Boot, HTML, CSS, JavaScript and React.js
 - 👀 Currently seeking Fall 2024 internships
