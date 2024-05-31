@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Toufiq
+- 👋 Hi, I’m Tom
 - 📍 Toronto, Canada
 - 🌱 I’m currently learning C, C#, .NET, Angular, TypeScript and SQL
 - 👨🏽‍💻 I have experience in Java, Spring Boot, HTML, CSS, JavaScript and React.js
