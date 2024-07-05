@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toufiq
 - 📍 Toronto, Canada
 - 🌱 I’m currently learning C, C# .NET, Angular, TypeScript and SQL
-- 👨🏽‍💻 I have experience in Java, Spring Boot, HTML, CSS, JavaScript and React.js
+- 👨🏽‍💻 I have experience in Java, Spring Boot, HTML, CSS, JavaScript and React
 - 👀 Currently seeking Fall 2024 internships
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/    :)
 
