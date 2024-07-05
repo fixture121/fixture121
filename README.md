@@ -5,7 +5,7 @@
 - 👀 Currently seeking Fall 2024 internships
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/    :)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixture121&layout=compact)]
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixture121&layout=compact)
 
 <!---
 fixture121/fixture121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
