@@ -2,7 +2,6 @@
 - 📍 Toronto, Canada
 - 🌱 I’m currently learning C, C# .NET, Angular, TypeScript and SQL
 - 👨🏽‍💻 I have experience in Java, Spring Boot, HTML, CSS, JavaScript and React
-- 👀 Currently seeking Fall 2024 internships
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/    :)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixture121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
