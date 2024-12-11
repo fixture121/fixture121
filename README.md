@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toufiq
 - 📍 Toronto, Canada
 - 🌱 I’m currently learning Python
-- 👨🏽‍💻 I have experience in Java, C, C# (ASP.NET), Spring Boot, TypeScript, JavaScript, Angular, React, HTML and CSS
+- 👨🏽‍💻 I have experience in Java, C, C# (.NET), Spring Boot, TypeScript, JavaScript, Angular, React, HTML and CSS
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/    :)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fixture121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
