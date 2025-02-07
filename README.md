@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toufiq
 - 📍 Toronto, Canada
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Swift and Kotlin
 - 👨🏽‍💻 I have experience in Java, C, C# (.NET), Spring Boot, TypeScript, JavaScript, Angular, React, HTML and CSS
 - 📫 DM me or check out my LinkedIn https://www.linkedin.com/in/toufiqcharania/    :)
 
